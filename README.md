@@ -9,13 +9,10 @@ Aplikasi ini merupakan backend untuk sistem administrasi perumahan yang menangan
 - **Riwayat Penghuni**: Mencatat kapan penghuni masuk dan keluar dari rumah tertentu.
 - **Pembayaran**: Pengelolaan pembayaran dengan status otomatis.
 - **Pemasukan & Pengeluaran**: Otomatis mencatat pemasukan dari pembayaran dan memungkinkan pencatatan pengeluaran.
-- **Autentikasi (Opsional, jika ada)**: Menggunakan JWT atau Sanctum untuk autentikasi pengguna.
 
 ## Teknologi yang Digunakan
 - **Laravel** - Framework backend
 - **MySQL** - Database
-- **Bootstrap** - Digunakan di frontend (jika relevan)
-- **JWT / Sanctum** - Untuk autentikasi (jika ada)
 - **Postman** - Pengujian API
 
 ## Instalasi dan Konfigurasi
