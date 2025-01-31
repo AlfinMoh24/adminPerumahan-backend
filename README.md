@@ -26,6 +26,10 @@ cd adminPerumahan-backend
 composer install
 ```
 ### 3. Buat file konfigurasi environment
+```bash
+    cp .env.example .env
+```
+### 4. Buat file konfigurasi environment
 
 Example file `.env` :
 ```env
@@ -37,11 +41,11 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-### 4. Generate Key
+### 5. Generate Key
 ```bash
 php artisan key:generate
 ```
-### 5. Migrasi Database dan Seeder
+### 6. Migrasi Database dan Seeder
 ```bash
 php artisan migrate --seed
 ```
