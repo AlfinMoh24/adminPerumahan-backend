@@ -17,7 +17,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 1,
                 'nama_lengkap' => 'Budi Santoso',
-                'foto_ktp' => 'foto_ktp_1.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '081234567890',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Tetap',
@@ -27,7 +27,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 2,
                 'nama_lengkap' => 'Siti Aminah',
-                'foto_ktp' => 'foto_ktp_2.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '082345678901',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Tetap',
@@ -37,7 +37,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 3,
                 'nama_lengkap' => 'Joko Widodo',
-                'foto_ktp' => 'foto_ktp_3.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '083456789012',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -47,7 +47,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 4,
                 'nama_lengkap' => 'Ani Lestari',
-                'foto_ktp' => 'foto_ktp_4.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '084567890123',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Tetap',
@@ -57,7 +57,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 5,
                 'nama_lengkap' => 'Hendra Wijaya',
-                'foto_ktp' => 'foto_ktp_5.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '081212121212',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -67,7 +67,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 6,
                 'nama_lengkap' => 'Dewi Sartika',
-                'foto_ktp' => 'foto_ktp_6.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '082323232323',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -77,7 +77,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 7,
                 'nama_lengkap' => 'Rizki Ramadhan',
-                'foto_ktp' => 'foto_ktp_7.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '083434343434',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Tetap',
@@ -87,7 +87,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 8,
                 'nama_lengkap' => 'Indah Permatasari',
-                'foto_ktp' => 'foto_ktp_8.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '084545454545',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -97,7 +97,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 9,
                 'nama_lengkap' => 'Fajar Nugraha',
-                'foto_ktp' => 'foto_ktp_9.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '081656565656',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Tetap',
@@ -107,7 +107,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 10,
                 'nama_lengkap' => 'Mega Sari',
-                'foto_ktp' => 'foto_ktp_10.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '082767676767',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -117,7 +117,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 11,
                 'nama_lengkap' => 'Yudi Pratama',
-                'foto_ktp' => 'foto_ktp_11.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '083878787878',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Tetap',
@@ -127,7 +127,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 12,
                 'nama_lengkap' => 'Anisa Putri',
-                'foto_ktp' => 'foto_ktp_12.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '084989898989',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Tetap',
@@ -137,7 +137,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 13,
                 'nama_lengkap' => 'Bagus Setiawan',
-                'foto_ktp' => 'foto_ktp_13.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '081010101010',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -147,7 +147,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 14,
                 'nama_lengkap' => 'Ratna Kusuma',
-                'foto_ktp' => 'foto_ktp_14.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '082121212121',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Tetap',
@@ -157,7 +157,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 15,
                 'nama_lengkap' => 'Dedi Susanto',
-                'foto_ktp' => 'foto_ktp_15.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '083232323232',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -167,7 +167,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 16,
                 'nama_lengkap' => 'Fitri Aulia',
-                'foto_ktp' => 'foto_ktp_16.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '084343434343',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Tetap',
@@ -177,7 +177,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 17,
                 'nama_lengkap' => 'Eko Supriyanto',
-                'foto_ktp' => 'foto_ktp_17.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '081454545454',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Tetap',
@@ -187,7 +187,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 18,
                 'nama_lengkap' => 'Lina Kuswanti',
-                'foto_ktp' => 'foto_ktp_18.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '082565656565',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -197,7 +197,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 19,
                 'nama_lengkap' => 'Adi Saputra',
-                'foto_ktp' => 'foto_ktp_19.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '083676767676',
                 'status_perkawinan' => 'Menikah',
                 'status_penghuni' => 'Kontrak',
@@ -207,7 +207,7 @@ class penghuniSeeder extends Seeder
             [
                 'id' => 20,
                 'nama_lengkap' => 'Nadia Ayu',
-                'foto_ktp' => 'foto_ktp_20.jpg',
+                'foto_ktp' => 'ktp/ktp.png',
                 'nomor_telepon' => '084787878787',
                 'status_perkawinan' => 'Belum Menikah',
                 'status_penghuni' => 'Tetap',
