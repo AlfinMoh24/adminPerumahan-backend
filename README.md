@@ -29,7 +29,7 @@ composer install
 ```bash
     cp .env.example .env
 ```
-### 4. Buat file konfigurasi environment
+### 4. Edit file .env sesuai dengan konfigurasi database dan aplikasi.
 
 Example file `.env` :
 ```env
