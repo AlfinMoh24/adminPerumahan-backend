@@ -26,9 +26,6 @@ cd adminPerumahan-backend
 composer install
 ```
 ### 3. Buat file konfigurasi environment
-```bash
-cp .env.example .env
-```
 
 Example file `.env` :
 ```env
