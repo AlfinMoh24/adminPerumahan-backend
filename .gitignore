@@ -6,7 +6,7 @@
 /storage/*.key
 /storage/pail
 /vendor
-!/storage/app/public.gitkeep
+!/storage/app/public/.gitkeep
 .env
 .env.backup
 .env.production
