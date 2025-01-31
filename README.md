@@ -1,7 +1,7 @@
 # Backend Aplikasi Administrasi Perumahan
 
 ## Deskripsi Proyek
-Aplikasi ini merupakan backend untuk sistem administrasi perumahan yang menangani data penghuni, rumah, pembayaran, pengeluaran, dan pemasukan. API ini dibangun menggunakan **Laravel** dan menyediakan endpoint untuk CRUD (Create, Read, Update, Delete) serta beberapa fitur otomatis seperti pencatatan riwayat penghuni rumah dan pencatatan pemasukan dari pembayaran.
+Aplikasi ini merupakan backend untuk sistem administrasi perumahan yang menangani data penghuni, rumah, pembayaran, pengeluaran, dan pemasukan. API ini dibangun menggunakan **Laravel** dan menyediakan endpoint untuk CRUD (Create, Read, Update, Delete) serta beberapa fitur otomatis seperti pencatatan riwayat penghuni rumah dan pencatatan pemasukan dari pembayaran. Sistem ini juga menggunakan **seeder** untuk mengisi data awal secara otomatis pada saat migrasi database
 
 ## Fitur Utama
 - **Manajemen Penghuni**: Tambah, edit, hapus, dan melihat detail penghuni.
