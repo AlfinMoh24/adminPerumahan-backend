@@ -18,8 +18,8 @@ Aplikasi ini merupakan backend untuk sistem administrasi perumahan yang menangan
 ## Instalasi dan Konfigurasi
 ### 1. Clone Repository
 ```bash
-    git clone https://github.com/AlfinMoh24/adminperumahan-backend.git
-    cd repository
+    git clone https://github.com/AlfinMoh24/adminPerumahan-backend.git
+    cd adminPerumahan-backend
 ```
 ### 2. Install Dependency
 ```bash
