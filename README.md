@@ -18,16 +18,16 @@ Aplikasi ini merupakan backend untuk sistem administrasi perumahan yang menangan
 ## Instalasi dan Konfigurasi
 ### 1. Clone Repository
 ```bash
-    git clone https://github.com/AlfinMoh24/adminPerumahan-backend.git
-    cd adminPerumahan-backend
+git clone https://github.com/AlfinMoh24/adminPerumahan-backend.git
+cd adminPerumahan-backend
 ```
 ### 2. Install Dependency
 ```bash
-    composer install
+composer install
 ```
 ### 3. Buat file konfigurasi environment
 ```bash
-    cp .env.example .env
+cp .env.example .env
 ```
 
 Example file `.env` :
@@ -42,20 +42,20 @@ DB_PASSWORD=
 
 ### 4. Generate Key
 ```bash
-    php artisan key:generate
+php artisan key:generate
 ```
 ### 5. Migrasi Database dan Seeder
 ```bash
-    php artisan migrate --seed
+php artisan migrate --seed
 ```
 Jika ingin melakukan migrasi ulang dan menghapus semua data sebelumnya:
 ```bash
-    php artisan migrate:fresh --seed
+php artisan migrate:fresh --seed
 ```
 
 ### 7. Jalankan Server Lokal
 ```bash
-    php artisan serve
+php artisan serve
 ```
 Akses API di `http://127.0.0.1:8000`
 
